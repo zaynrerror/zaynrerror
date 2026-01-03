@@ -63,10 +63,10 @@ I'm a passionate fullstack developer dedicated to crafting **seamless user exper
 
 I'm always open to collaborating on interesting projects, discussing web technologies, or exploring AI applications. Feel free to reach out!
 
-- 📧 **Email:** [Add your email]
-- 🔗 **LinkedIn:** [Add your LinkedIn]
-- 🐦 **Twitter:** [Add your Twitter]
-- 💬 **Discord:** [Add your Discord]
+- 📧 **Email:** ****************
+- 🔗 **LinkedIn:** ***************
+- 🐦 **Twitter:** ***************
+- 💬 **Discord:** *****************
 
 ---
 
