@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Issam El Boudounti
+# 👋 Hey there!
 
 **Fullstack Developer & AI Enthusiast** | Building the future of web technology
 
